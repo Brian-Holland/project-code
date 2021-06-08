@@ -7,8 +7,29 @@ export default function Home() {
 				<title>Code Nodes</title>
 				<meta
 					name="description"
-					content="CodeNodes is built by new engineers for new engineers. Gain experience building projects with a team by starting or finding a team, planning projects, building projects, and deploying the finished project to for experience or resume items."
+					content="CodeNodes helps newer engineers gain experience by finding or starting a team, planning projects, building projects, and deploying the finished project for experience or resume items."
 				/>
+
+				<meta property="og:type" content="website" />
+				<meta property="og:url" content="https://codenodes.com" />
+				<meta property="og:title" content="CodeNodes" />
+				<meta
+					property="og:description"
+					content="CodeNodes helps newer engineers gain experience by finding or starting a team, planning projects, building projects, and deploying the finished project for experience or resume items."
+				/>
+				<meta property="og:image" content="https://codenodes.com/imgs/codenodes.png" />
+				<meta property="og:image:type" content="image/png" />
+				<meta property="og:image:alt" content="View of user dashboard" />
+
+				<meta property="twitter:card" content="summary_large_image" />
+				<meta property="twitter:url" content="https://codenodes.com/" />
+				<meta property="twitter:title" content="CodeNodes" />
+				<meta
+					property="twitter:description"
+					content="CodeNodes helps newer engineers gain experience by finding or starting a team, planning projects, building projects, and deploying the finished project for experience or resume items."
+				/>
+				<meta property="twitter:image" content="https://codenodes.com/imgs/codenodes.png" />
+
 				<link
 					rel="stylesheet"
 					href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
