@@ -28,7 +28,7 @@ i {
 	display: grid;
 	gap: 1.8rem;
 	grid-template-columns: repeat(2, 1fr);
-	margin: 1.5% 17%;
+	margin: 1.5% 17% 0 17%;
 }
 .features div {
 	padding: 15px 15px;
