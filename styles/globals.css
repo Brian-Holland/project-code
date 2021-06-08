@@ -54,6 +54,6 @@ i {
 	}
 	.features {
 		grid-template-columns: repeat(1, 1fr);
-		margin: 3rem;
+		margin: 2rem 2rem 1rem 2rem;
 	}
 }
