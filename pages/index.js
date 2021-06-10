@@ -46,6 +46,7 @@ export default function Home() {
 
 			<main>
 				<h1 className="app-title">Code Nodes</h1>
+				<p className="under-title">A community for new engineers by new engineers.</p>
 				<div className="features">
 					<div>
 						<i className="fas fa-users fa-2x" />
